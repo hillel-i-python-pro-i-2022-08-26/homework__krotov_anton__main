@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../python0609202/.idea/python0609202.iml" filepath="$PROJECT_DIR$/../python0609202/.idea/python0609202.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonGitHillel.iml" filepath="$PROJECT_DIR$/.idea/pythonGitHillel.iml" />
     </modules>
   </component>
