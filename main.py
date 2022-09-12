@@ -1,10 +1,11 @@
 # Game WORDS
 
+
+
 igroki = []
 words = []
 
 players = None
-
 
 def player():  # функция которая отвечает за создание игроков
     while True:
